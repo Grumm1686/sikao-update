@@ -1,9 +1,9 @@
 {
-  "version": "1.05",
-  "note": "在线更新上线；猿神七处修正；设置里加了「支持作者」",
-  "size": 3388526,
+  "version": "1.06",
+  "note": "掰手腕支持联机：进游戏先选「和机器人」还是「和朋友联机」，房间码一样就能对上。",
+  "size": 3495089,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.05.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.05.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.06.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.06.apk"
   ]
 }
