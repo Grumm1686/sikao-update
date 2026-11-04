@@ -1,9 +1,9 @@
 {
-  "version": "1.07",
-  "note": "改名 DaapSaak-能工智人；猿神里能自己写剧情了（✎ 剧情）；在线更新会走通知栏显示进度。",
-  "size": 3503281,
+  "version": "1.08",
+  "note": "新增「野人投石机」小游戏：人机或联机对轰，扔石头和香蕉炸地形，支持导入你自己的像素画当地图。",
+  "size": 3511472,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.07.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.07.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.08.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.08.apk"
   ]
 }
