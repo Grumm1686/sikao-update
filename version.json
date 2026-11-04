@@ -1,6 +1,9 @@
 {
-  "version": "1.04",
-  "url": "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app.apk",
-  "note": "支持作者打赏；猿神修正七处",
-  "size": 3388526
+  "version": "1.05",
+  "note": "在线更新上线；猿神七处修正；设置里加了「支持作者」",
+  "size": 3388526,
+  "urls": [
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app.apk"
+  ]
 }
