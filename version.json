@@ -1,12 +1,12 @@
 {
-  "version": "1.33",
-  "note": "猩球争霸：慢放和暂停分开了；领地按斥力重新排布，升到高级也不会叠在一起。",
-  "size": 3856026,
+  "version": "1.34",
+  "note": "猩球争霸：暂停后再点回正常速度；派兵数量不设上限，加了 10% 到 100% 的比例快捷键。",
+  "size": 3856027,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.33.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.33.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.33.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.33.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.33.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.34.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.34.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.34.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.34.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.34.apk"
   ]
 }
