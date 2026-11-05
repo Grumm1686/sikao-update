@@ -1,12 +1,12 @@
 {
-  "version": "1.48",
-  "note": "猿神换成原作 A Dark Room 完整移植：进了游戏就是那个网页游戏本体（中文），有火堆、小屋、村民、探索和结局。",
+  "version": "1.49",
+  "note": "修猿神打不开：WebView 不认带参数的本地地址，去掉了语言参数，并放开本地文件读取。",
   "size": 4080657,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.48.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.48.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.48.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.48.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.48.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.49.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.49.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.49.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.49.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.49.apk"
   ]
 }
