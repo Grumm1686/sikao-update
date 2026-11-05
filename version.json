@@ -1,12 +1,12 @@
 {
-  "version": "1.41",
-  "note": "基米生死斗：炸毛必须贴身才生效、2.5 秒冷却；选人机/联机界面的返回按钮恢复；手速卡开始按钮和返回并排一行。",
+  "version": "1.42",
+  "note": "基米生死斗：修好贴不到一起的问题（原来两人最近只能到两个身位，比普攻范围还远），现在能贴到半个身位内。",
   "size": 3860123,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.41.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.41.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.41.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.41.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.41.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.42.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.42.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.42.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.42.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.42.apk"
   ]
 }
