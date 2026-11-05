@@ -1,12 +1,12 @@
 {
-  "version": "1.19",
-  "note": "联机修了一版：投石机两边能看见对方走跳和扔的东西；基米联机界面能滚动、有开始按钮和返回；掰手腕每局结果记进下面的历史里，点得多的赢。",
-  "size": 3847835,
+  "version": "1.20",
+  "note": "卡车会一路推到最左边、音效放完才结束；联机连不上会自动换备用服务器，并显示具体错误。",
+  "size": 3847836,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.19.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.19.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.19.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.19.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.19.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.20.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.20.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.20.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.20.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.20.apk"
   ]
 }
