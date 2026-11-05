@@ -1,12 +1,12 @@
 {
-  "version": "1.31",
-  "note": "猩球争霸：加停止派兵按钮、左上角加减速与暂停；全软件禁止长按选字。",
+  "version": "1.32",
+  "note": "修好新加的停止派兵和三个速度按钮点不动的问题。",
   "size": 3856027,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.31.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.31.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.31.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.31.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.31.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.32.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.32.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.32.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.32.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.32.apk"
   ]
 }
