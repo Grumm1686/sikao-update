@@ -1,12 +1,12 @@
 {
-  "version": "1.26",
-  "note": "新增「猩球争霸」（🌏，商城 🍌×15）：21 块地盘、抢地比骰子，人机对战。",
-  "size": 3851933,
+  "version": "1.27",
+  "note": "猩球争霸画面改成贴满整块屏幕、地图居中等比缩放，不再挤在左下角。",
+  "size": 3851932,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.26.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.26.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.26.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.26.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.26.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.27.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.27.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.27.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.27.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.27.apk"
   ]
 }
