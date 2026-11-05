@@ -1,12 +1,12 @@
 {
-  "version": "1.23",
-  "note": "投石机：两边都把自己摆在右边、对方在左边，位置就不会左右颠倒了；输了会显示你倒下了。掰手腕联机一局只记一条，等对方数据回来才出结果。",
-  "size": 3847836,
+  "version": "1.24",
+  "note": "掰手腕联机结算改成房主统一算，两边显示的输赢和历史记录一定一致。",
+  "size": 3847835,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.23.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.23.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.23.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.23.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.23.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.24.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.24.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.24.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.24.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.24.apk"
   ]
 }
