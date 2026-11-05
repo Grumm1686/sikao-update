@@ -1,12 +1,12 @@
 {
-  "version": "1.12",
-  "note": "投石机：瞄准虚线和真正扔出去的轨迹、落点完全一致（同一套物理计算），落点画了个圈；去掉了右下角多余的退出键。",
+  "version": "1.13",
+  "note": "投石机瞄准改成摇杆：按住后往哪边拖就往哪边扔，离圆心越远越用力；导入地图的按钮能点了。",
   "size": 3515568,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.12.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.12.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.12.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.12.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.12.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.13.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.13.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.13.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.13.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.13.apk"
   ]
 }
