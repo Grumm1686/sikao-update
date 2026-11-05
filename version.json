@@ -1,12 +1,12 @@
 {
-  "version": "1.22",
-  "note": "联机：消息加了发送者标记，自己的动作不会再被当成对方的回放一遍；投石机会把地图发过去、爆炸破坏也同步，对方看到的画面上左右是反的；基米打完弹窗只弹一次。",
-  "size": 3847835,
+  "version": "1.23",
+  "note": "投石机：两边都把自己摆在右边、对方在左边，位置就不会左右颠倒了；输了会显示你倒下了。掰手腕联机一局只记一条，等对方数据回来才出结果。",
+  "size": 3847836,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.22.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.22.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.22.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.22.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.22.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.23.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.23.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.23.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.23.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.23.apk"
   ]
 }
