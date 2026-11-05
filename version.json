@@ -1,12 +1,12 @@
 {
-  "version": "1.28",
-  "note": "猩球争霸改成即时制：随机出生点、领地每秒产兵、可升级中高级、拖动派兵持续输送。",
+  "version": "1.29",
+  "note": "修好画布被压到 380 宽的问题：猩球争霸、野人投石机、基米生死斗现在都铺满整块屏幕。",
   "size": 3856028,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.28.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.28.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.28.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.28.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.28.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.29.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.29.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.29.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.29.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.29.apk"
   ]
 }
