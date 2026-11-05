@@ -1,9 +1,12 @@
 {
-  "version": "1.08",
-  "note": "新增「野人投石机」小游戏：人机或联机对轰，扔石头和香蕉炸地形，支持导入你自己的像素画当地图。",
-  "size": 3511472,
+  "version": "1.09",
+  "note": "修了猿神：自己写的剧情能改血量/力量/道痕/buff/流派/蛊虫/物品，结果后面直接显示占比；手里有石头就能砸；第三次剧情是希望蛊；开窍后变一转。更新能断点接着下、下好点通知栏装。投石机瞄准改滑动距离、按钮加大、可以边跑边瞄。",
+  "size": 3515569,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.08.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.08.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.09.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.09.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.09.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.09.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.09.apk"
   ]
 }
