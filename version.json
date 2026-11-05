@@ -1,12 +1,12 @@
 {
-  "version": "1.46",
-  "note": "猿神：资源栏挪到顶上常显，砍柴和添柴按钮改成直接点击（之前绑定没生效），火光条更明显。",
+  "version": "1.47",
+  "note": "猿神按原作重做界面：全屏黑、右上角资源、中间文字流居中、底部火堆和按钮。",
   "size": 3864220,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.46.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.46.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.46.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.46.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.46.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.47.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.47.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.47.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.47.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.47.apk"
   ]
 }
