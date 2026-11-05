@@ -1,12 +1,12 @@
 {
-  "version": "1.37",
-  "note": "投石机机器人会瞄准你打、会找掩体；基米生死斗炸毛改成把对方推开、人机前加手速测试、机器人会回血；猩球争霸加退出按钮、久攻不下会换目标升级；扫雷第一下落点无雷；掰手腕历史分人机/联机；每个游戏点开有玩法介绍；有声音的游戏卡片可静音；猿神改名蛊真人。",
+  "version": "1.38",
+  "note": "静音按钮回到卡片右上角；手速测试完给结果和开始按钮；猩球争霸连线橙色、出兵线不再溢出、百分比按当前兵力算、机器人会集结突围并优先打高级领地；掰手腕历史折叠。",
   "size": 3860125,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.37.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.37.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.37.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.37.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.37.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.38.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.38.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.38.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.38.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.38.apk"
   ]
 }
