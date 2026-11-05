@@ -1,12 +1,12 @@
 {
-  "version": "1.20",
-  "note": "卡车会一路推到最左边、音效放完才结束；联机连不上会自动换备用服务器，并显示具体错误。",
-  "size": 3847836,
+  "version": "1.21",
+  "note": "投石机联机：开局时把房间信息弄丢了，所以走和扔都发不出去，修好了。掰手腕历史不再一次冒出十几条一样的。",
+  "size": 3847835,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.20.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.20.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.20.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.20.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.20.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.21.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.21.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.21.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.21.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.21.apk"
   ]
 }
