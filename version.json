@@ -1,12 +1,12 @@
 {
-  "version": "1.25",
-  "note": "掰手腕联机结算改成握手：房主先确认对方数据到齐，再本地算、再发回去，两边一定一致。",
-  "size": 3847835,
+  "version": "1.26",
+  "note": "新增「猩球争霸」（🌏，商城 🍌×15）：21 块地盘、抢地比骰子，人机对战。",
+  "size": 3851933,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.25.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.25.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.25.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.25.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.25.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.26.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.26.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.26.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.26.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.26.apk"
   ]
 }
