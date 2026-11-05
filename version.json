@@ -1,12 +1,12 @@
 {
-  "version": "1.18",
-  "note": "基米生死斗：机器人手速限到 0.2 秒一个键；投石机和基米的选人界面都加了返回；小丑图再放大些。",
+  "version": "1.19",
+  "note": "联机修了一版：投石机两边能看见对方走跳和扔的东西；基米联机界面能滚动、有开始按钮和返回；掰手腕每局结果记进下面的历史里，点得多的赢。",
   "size": 3847835,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.18.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.18.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.18.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.18.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.18.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.19.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.19.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.19.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.19.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.19.apk"
   ]
 }
