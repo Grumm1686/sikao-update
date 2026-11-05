@@ -1,12 +1,12 @@
 {
-  "version": "1.43",
-  "note": "侧边栏去掉蛊真人入口，以后只从开动脑筋进。",
-  "size": 3860125,
+  "version": "1.44",
+  "note": "侧边栏去掉蛊真人入口；开动脑筋里加了新游戏「猿神」（暗室风格：火堆、砍柴、建屋、招人打工），地图探索和战斗下一版加。",
+  "size": 3864219,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.43.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.43.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.43.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.43.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.43.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.44.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.44.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.44.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.44.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.44.apk"
   ]
 }
