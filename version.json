@@ -1,12 +1,12 @@
 {
-  "version": "1.13",
-  "note": "投石机瞄准改成摇杆：按住后往哪边拖就往哪边扔，离圆心越远越用力；导入地图的按钮能点了。",
-  "size": 3515568,
+  "version": "1.14",
+  "note": "新增「基米生死斗」小游戏：两只猫互殴，老吴攒劲、哈气吹火、普攻揍、炸毛击退、回血，时间到有大运卡车把两个推走。支持人机和联机。",
+  "size": 3815007,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.13.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.13.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.13.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.13.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.13.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.14.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.14.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.14.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.14.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.14.apk"
   ]
 }
