@@ -1,12 +1,12 @@
 {
-  "version": "1.39",
-  "note": "基米生死斗手速测试的开始按钮和返回键挪好了；蛊真人改成一年一岁的方式；猩球连线黑色、百分比出兵真正按当前兵力算；静音键给对象棋。",
-  "size": 3860125,
+  "version": "1.40",
+  "note": "手速测试卡住的问题修好了（计时代码抛错导致后面的按钮和文字都没出来）；蛊真人卡片去掉静音键；蛊真人恢复成 1 剧情 1 回合、5 回合 1 天、5 天 1 年。",
+  "size": 3860124,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.39.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.39.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.39.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.39.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.39.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.40.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.40.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.40.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.40.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.40.apk"
   ]
 }
