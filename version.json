@@ -1,12 +1,12 @@
 {
-  "version": "1.10",
-  "note": "投石机：画面不再跟着手指滑、横屏适配（像素画取下半段等比缩放）；猿神：背包分食物/物品/蛊虫三页，自己写的剧情收的蛊虫能真正拿到，还能自己填攻击力和防御力。",
-  "size": 3515567,
+  "version": "1.11",
+  "note": "投石机：全屏铺满横屏，按键不再被挤出屏幕，右上角加了退出键，地形加了几层平台。",
+  "size": 3515566,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.10.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.10.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.10.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.10.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.10.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.11.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.11.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.11.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.11.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.11.apk"
   ]
 }
