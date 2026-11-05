@@ -1,12 +1,12 @@
 {
-  "version": "1.35",
-  "note": "猩球争霸：机器人会发育、攒够就进攻、被围就突围，操作每 0.5~1 秒一次。",
+  "version": "1.36",
+  "note": "猩球争霸：机器人先扩张再进攻，沿最短路线朝你发展，兵力占优才开打，会多线派兵。",
   "size": 3856028,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.35.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.35.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.35.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.35.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.35.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.36.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.36.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.36.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.36.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.36.apk"
   ]
 }
