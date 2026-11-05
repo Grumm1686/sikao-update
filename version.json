@@ -1,12 +1,12 @@
 {
-  "version": "1.30",
-  "note": "猩球争霸：升级不再放大领地，改成加花纹圈；一块地同时只往一个方向派兵；派兵数量改成滑块。",
-  "size": 3856029,
+  "version": "1.31",
+  "note": "猩球争霸：加停止派兵按钮、左上角加减速与暂停；全软件禁止长按选字。",
+  "size": 3856027,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.30.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.30.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.30.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.30.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.30.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.31.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.31.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.31.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.31.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.31.apk"
   ]
 }
