@@ -1,12 +1,12 @@
 {
-  "version": "1.38",
-  "note": "静音按钮回到卡片右上角；手速测试完给结果和开始按钮；猩球争霸连线橙色、出兵线不再溢出、百分比按当前兵力算、机器人会集结突围并优先打高级领地；掰手腕历史折叠。",
+  "version": "1.39",
+  "note": "基米生死斗手速测试的开始按钮和返回键挪好了；蛊真人改成一年一岁的方式；猩球连线黑色、百分比出兵真正按当前兵力算；静音键给对象棋。",
   "size": 3860125,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.38.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.38.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.38.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.38.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.38.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.39.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.39.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.39.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.39.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.39.apk"
   ]
 }
