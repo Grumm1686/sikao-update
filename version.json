@@ -1,12 +1,12 @@
 {
-  "version": "1.21",
-  "note": "投石机联机：开局时把房间信息弄丢了，所以走和扔都发不出去，修好了。掰手腕历史不再一次冒出十几条一样的。",
+  "version": "1.22",
+  "note": "联机：消息加了发送者标记，自己的动作不会再被当成对方的回放一遍；投石机会把地图发过去、爆炸破坏也同步，对方看到的画面上左右是反的；基米打完弹窗只弹一次。",
   "size": 3847835,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.21.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.21.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.21.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.21.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.21.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.22.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.22.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.22.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.22.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.22.apk"
   ]
 }
