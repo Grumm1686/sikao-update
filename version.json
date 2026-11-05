@@ -1,12 +1,12 @@
 {
-  "version": "1.09",
-  "note": "修了猿神：自己写的剧情能改血量/力量/道痕/buff/流派/蛊虫/物品，结果后面直接显示占比；手里有石头就能砸；第三次剧情是希望蛊；开窍后变一转。更新能断点接着下、下好点通知栏装。投石机瞄准改滑动距离、按钮加大、可以边跑边瞄。",
-  "size": 3515569,
+  "version": "1.10",
+  "note": "投石机：画面不再跟着手指滑、横屏适配（像素画取下半段等比缩放）；猿神：背包分食物/物品/蛊虫三页，自己写的剧情收的蛊虫能真正拿到，还能自己填攻击力和防御力。",
+  "size": 3515567,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.09.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.09.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.09.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.09.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.09.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.10.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.10.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.10.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.10.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.10.apk"
   ]
 }
