@@ -1,12 +1,12 @@
 {
-  "version": "1.44",
-  "note": "侧边栏去掉蛊真人入口；开动脑筋里加了新游戏「猿神」（暗室风格：火堆、砍柴、建屋、招人打工），地图探索和战斗下一版加。",
-  "size": 3864219,
+  "version": "1.46",
+  "note": "猿神：资源栏挪到顶上常显，砍柴和添柴按钮改成直接点击（之前绑定没生效），火光条更明显。",
+  "size": 3864220,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.44.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.44.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.44.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.44.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.44.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.46.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.46.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.46.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.46.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.46.apk"
   ]
 }
