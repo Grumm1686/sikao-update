@@ -1,12 +1,12 @@
 {
-  "version": "1.49",
-  "note": "修猿神打不开：WebView 不认带参数的本地地址，去掉了语言参数，并放开本地文件读取。",
-  "size": 4080657,
+  "version": "1.50",
+  "note": "猿神改成整页离线版：所有脚本样式都塞进同一个文件，点进去整页打开、横屏、带返回按钮，不再依赖子文件加载。",
+  "size": 4199441,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.49.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.49.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.49.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.49.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.49.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.50.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.50.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.50.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.50.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.50.apk"
   ]
 }
