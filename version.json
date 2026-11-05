@@ -1,12 +1,12 @@
 {
-  "version": "1.16",
-  "note": "基米生死斗：两个角色最多贴在一起不会重叠，回血绿十字 1 秒就散，五个按钮的音效都能响也能叠加；镜子小丑图缩小。",
+  "version": "1.17",
+  "note": "基米生死斗：炸毛去冷却；时间到卡车真的会从右边开过来、带大运音效、把两只猫推到屏幕外。小丑图放大一点点。",
   "size": 3847834,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.16.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.16.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.16.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.16.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.16.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.17.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.17.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.17.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.17.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.17.apk"
   ]
 }
