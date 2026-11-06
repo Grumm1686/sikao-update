@@ -1,12 +1,12 @@
 {
-  "version": "1.54",
-  "note": "阅读：长按能选中文字了，划线功能恢复；去掉左右翻页和翻页切换按钮，只保留上下滑动。",
+  "version": "1.55",
+  "note": "阅读：只剩上下滑一种翻页、划线位置对准了（选哪段划哪段）、听书返回再点接着读、边听边读时正文那一行会标黄。",
   "size": 3872412,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.54.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.54.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.54.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.54.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.54.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.55.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.55.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.55.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.55.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.55.apk"
   ]
 }
