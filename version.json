@@ -1,12 +1,12 @@
 {
-  "version": "1.59",
-  "note": "记账：记录页的日历改成直接输入年月日定位，统计页的月份点一下也能输入年月。",
+  "version": "1.60",
+  "note": "投石机：按钮位置重排+半透明、角色一格大小、双指缩放单指平移视角、点🐒回中、出生点随机且相隔十格；猩球争霸修派兵超过100送不出去；待办加批量删除。",
   "size": 3884699,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.59.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.59.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.59.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.59.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.59.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.60.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.60.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.60.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.60.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.60.apk"
   ]
 }
