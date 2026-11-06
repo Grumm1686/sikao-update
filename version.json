@@ -1,12 +1,12 @@
 {
-  "version": "1.42",
-  "note": "回退到 1.42 的内容：去掉坏掉的猿神（暗室），蛊真人只从开动脑筋进。",
-  "size": 3860123,
+  "version": "1.43",
+  "note": "点开右上角 🍌 面板，底部多了「神秘代码」输入口。",
+  "size": 3860125,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.42.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.42.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.42.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.42.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.42.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.43.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.43.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.43.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.43.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.43.apk"
   ]
 }
