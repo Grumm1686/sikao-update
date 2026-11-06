@@ -1,12 +1,12 @@
 {
-  "version": "1.58",
-  "note": "新增记账：首页（今日支出/收入/结余、记一笔、按天列表）、记一笔（收入支出切换、12 个分类、日期滚轮、备注）、记录（全部/支出/收入、全部分类、搜索、按日期看）、统计（月份切换、每日趋势折线、支出饼图）、自定义分类。",
-  "size": 3880603,
+  "version": "1.59",
+  "note": "记账：记录页的日历改成直接输入年月日定位，统计页的月份点一下也能输入年月。",
+  "size": 3884699,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.58.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.58.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.58.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.58.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.58.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.59.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.59.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.59.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.59.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.59.apk"
   ]
 }
