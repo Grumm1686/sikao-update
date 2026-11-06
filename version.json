@@ -1,12 +1,12 @@
 {
-  "version": "1.43",
-  "note": "点开右上角 🍌 面板，底部多了「神秘代码」输入口。",
-  "size": 3860125,
+  "version": "1.47",
+  "note": "阅读：目录和设置点开再点一次能关回去；超过 2MB 的 txt 自动按章节切成几份导入；开屏改成 2 秒；去掉内置的冒险生活（包体从 158MB 降回 3.9MB）。",
+  "size": 3868315,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.43.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.43.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.43.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.43.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.43.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.47.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.47.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.47.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.47.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.47.apk"
   ]
 }
