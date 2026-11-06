@@ -1,12 +1,12 @@
 {
-  "version": "1.57",
-  "note": "听书一开就把自动翻页停掉，听书播放期间点自动翻页会提示先关掉，两个不再打架。",
-  "size": 3876507,
+  "version": "1.58",
+  "note": "新增记账：首页（今日支出/收入/结余、记一笔、按天列表）、记一笔（收入支出切换、12 个分类、日期滚轮、备注）、记录（全部/支出/收入、全部分类、搜索、按日期看）、统计（月份切换、每日趋势折线、支出饼图）、自定义分类。",
+  "size": 3880603,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.57.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.57.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.57.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.57.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.57.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.58.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.58.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.58.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.58.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.58.apk"
   ]
 }
