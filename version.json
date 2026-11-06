@@ -1,12 +1,12 @@
 {
-  "version": "1.51",
-  "note": "阅读八条：听钮只在读书界面、听书弹窗不再跑到书架、听书目录从右侧滑出再点收起、自动翻页改成弹窗选每秒几行、音量键上下模式翻半页、左右翻页修好了、点中间会连设置一起收起。",
-  "size": 3872412,
+  "version": "1.52",
+  "note": "阅读九条：听书弹窗不再跑到书架、点原文回阅读界面还继续念、自动翻页改 3/2/1 秒一行、当前行淡黄底、画线能选颜色、左右翻页真的一页一页翻。",
+  "size": 3872411,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.51.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.51.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.51.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.51.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.51.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.52.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.52.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.52.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.52.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.52.apk"
   ]
 }
