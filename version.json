@@ -1,12 +1,12 @@
 {
-  "version": "1.56",
-  "note": "阅读：关自动翻页会清掉黄底、听书换章后回原文会跟到那一段、划线改成彩色方块挑颜色。",
-  "size": 3872411,
+  "version": "1.57",
+  "note": "听书一开就把自动翻页停掉，听书播放期间点自动翻页会提示先关掉，两个不再打架。",
+  "size": 3876507,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.56.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.56.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.56.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.56.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.56.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.57.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.57.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.57.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.57.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.57.apk"
   ]
 }
