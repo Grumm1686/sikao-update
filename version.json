@@ -1,12 +1,12 @@
 {
-  "version": "1.48",
-  "note": "阅读：目录和设置面板留出底栏，再点一次就能关回去；超过 2MB 的 txt 自动按章切成几份导入；开屏 2 秒；去掉内置的冒险生活。",
+  "version": "1.49",
+  "note": "阅读：切分出来的多份收进一个文件夹，点进去能看到每份、看过的那份标黄、点进去回到上次位置；设置面板不再露在屏幕底下。",
   "size": 3868315,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.48.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.48.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.48.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.48.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.48.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.49.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.49.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.49.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.49.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.49.apk"
   ]
 }
