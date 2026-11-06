@@ -1,12 +1,12 @@
 {
-  "version": "1.52",
-  "note": "猿神：原作自带一个「手机请用电脑玩」的跳转，把它去掉了，现在手机上直接进游戏。",
-  "size": 4424720,
+  "version": "1.42",
+  "note": "回退到 1.42 的内容：去掉坏掉的猿神（暗室），蛊真人只从开动脑筋进。",
+  "size": 3860123,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.52.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.52.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.52.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.52.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.52.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.42.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.42.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.42.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.42.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.42.apk"
   ]
 }
