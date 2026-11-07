@@ -1,12 +1,12 @@
 {
-  "version": "1.60",
-  "note": "投石机：按钮位置重排+半透明、角色一格大小、双指缩放单指平移视角、点🐒回中、出生点随机且相隔十格；猩球争霸修派兵超过100送不出去；待办加批量删除。",
-  "size": 3884699,
+  "version": "1.61",
+  "note": "换新图标；投石机修左右移动按钮没反应、按钮整体右移、卡片半透明、跳跃键再往右半个身位。",
+  "size": 3823259,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.60.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.60.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.60.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.60.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.60.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.61.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.61.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.61.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.61.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.61.apk"
   ]
 }
