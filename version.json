@@ -1,12 +1,12 @@
 {
-  "version": "1.80",
-  "note": "ce",
-  "size": 3827354,
+  "version": "1.81",
+  "note": "象棋：AI 走子会有金圈高亮（下一步消失），底部显示「已微操 N 次」，点自己的子会提示「我做如下部署：」；AI 改成迭代加深，最多算 8 层、限时 4 秒。",
+  "size": 3827355,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.80.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.80.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.80.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.80.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.80.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.81.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.81.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.81.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.81.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.81.apk"
   ]
 }
