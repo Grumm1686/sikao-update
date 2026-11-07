@@ -1,12 +1,12 @@
 {
-  "version": "1.61",
-  "note": "换新图标；投石机修左右移动按钮没反应、按钮整体右移、卡片半透明、跳跃键再往右半个身位。",
-  "size": 3823259,
+  "version": "1.62",
+  "note": "修好投石机四个键；设置里加了「开屏画面」开关和「自定义软件图标」（选一张图做成桌面快捷方式）；蛊真人图标换成蜘蛛。",
+  "size": 3823258,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.61.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.61.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.61.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.61.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.61.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.62.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.62.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.62.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.62.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.62.apk"
   ]
 }
