@@ -1,12 +1,12 @@
 {
-  "version": "1.67",
-  "note": "按你说的分层：画布压到最底层，按钮、血条、卡牌全部提到最上层，手势再也盖不住按钮。",
-  "size": 3823261,
+  "version": "1.68",
+  "note": "加了报错显示：程序一报错，屏幕顶上会出现红色小字，把那段字发我就能定位。",
+  "size": 3827354,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.67.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.67.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.67.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.67.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.67.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.68.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.68.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.68.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.68.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.68.apk"
   ]
 }
