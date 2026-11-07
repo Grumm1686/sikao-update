@@ -1,12 +1,12 @@
 {
-  "version": "1.71",
-  "note": "诊断版：按 ◀ ▶ 会弹一句话说明为什么不动（前面是墙 / 到边了 / 人没了 / 前面是墙的坐标）。",
-  "size": 3827355,
+  "version": "1.72",
+  "note": "投石机左右键改成直接写在按钮上的点击，不再依赖脚本绑定；按不动的话会弹一句原因。",
+  "size": 3827354,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.71.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.71.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.71.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.71.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.71.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.72.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.72.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.72.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.72.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.72.apk"
   ]
 }
