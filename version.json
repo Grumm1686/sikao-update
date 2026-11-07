@@ -1,12 +1,12 @@
 {
-  "version": "1.69",
-  "note": "修行走判格：角色站在地面上时代码把脚下那格当成障碍，所以一走就判定撞墙；地形被炸开后更明显。",
+  "version": "1.70",
+  "note": "投石机右上角加了 🔍 视角开关，默认锁死：这时手势完全不接管画面，和没加缩放之前一样。",
   "size": 3827357,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.69.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.69.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.69.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.69.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.69.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.70.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.70.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.70.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.70.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.70.apk"
   ]
 }
