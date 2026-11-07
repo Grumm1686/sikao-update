@@ -1,12 +1,12 @@
 {
-  "version": "1.63",
-  "note": "删掉自定义图标；开屏开关真的能开关了（关掉后进软件直接进主界面）；投石机移动视角后左右键又能用了。",
-  "size": 3823258,
+  "version": "1.64",
+  "note": "删掉开屏开关（开屏固定显示）；投石机用了方向键后如果角色跑出画面，视角自动回到中间。",
+  "size": 3823259,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.63.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.63.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.63.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.63.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.63.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.64.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.64.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.64.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.64.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.64.apk"
   ]
 }
