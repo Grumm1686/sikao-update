@@ -1,12 +1,12 @@
 {
-  "version": "1.65",
-  "note": "投石机的 ◀ ▶ 改成一按走一格，不再按住连发；同时兼容 touch 事件，真机上点一下就动。",
-  "size": 3823258,
+  "version": "1.66",
+  "note": "投石机：打在角色或地形上以前会中断画面刷新，人还能走但看不见动；现在刷新不会被打断。",
+  "size": 3823259,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.65.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.65.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.65.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.65.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.65.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.66.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.66.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.66.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.66.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.66.apk"
   ]
 }
