@@ -1,12 +1,12 @@
 {
-  "version": "1.75",
-  "note": "求助大厅那条问题改成「狗是什么时候加入人类阵营的」；投石机人机开局 5 秒内不扔，之后每 5 秒扔一个。",
+  "version": "1.76",
+  "note": "象棋第一轮：加入容错步数（子力分差评估 + 每走一手判定 + 顶栏显示剩余容错）。",
   "size": 3827354,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.75.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.75.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.75.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.75.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.75.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.76.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.76.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.76.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.76.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.76.apk"
   ]
 }
