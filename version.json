@@ -1,12 +1,12 @@
 {
-  "version": "1.70",
-  "note": "投石机右上角加了 🔍 视角开关，默认锁死：这时手势完全不接管画面，和没加缩放之前一样。",
-  "size": 3827357,
+  "version": "1.71",
+  "note": "诊断版：按 ◀ ▶ 会弹一句话说明为什么不动（前面是墙 / 到边了 / 人没了 / 前面是墙的坐标）。",
+  "size": 3827355,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.70.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.70.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.70.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.70.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.70.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.71.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.71.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.71.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.71.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.71.apk"
   ]
 }
