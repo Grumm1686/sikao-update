@@ -1,12 +1,12 @@
 {
-  "version": "1.68",
-  "note": "加了报错显示：程序一报错，屏幕顶上会出现红色小字，把那段字发我就能定位。",
-  "size": 3827354,
+  "version": "1.69",
+  "note": "修行走判格：角色站在地面上时代码把脚下那格当成障碍，所以一走就判定撞墙；地形被炸开后更明显。",
+  "size": 3827357,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.68.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.68.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.68.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.68.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.68.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.69.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.69.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.69.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.69.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.69.apk"
   ]
 }
