@@ -1,12 +1,12 @@
 {
-  "version": "1.72",
-  "note": "投石机左右键改成直接写在按钮上的点击，不再依赖脚本绑定；按不动的话会弹一句原因。",
+  "version": "1.73",
+  "note": "左键被卡牌那条横带盖住了（横带整条都能吃点击），所以点了不亮也不动；现在横带只让卡片本身可点，按钮提到最上层。",
   "size": 3827354,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.72.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.72.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.72.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.72.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.72.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.73.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.73.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.73.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.73.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.73.apk"
   ]
 }
