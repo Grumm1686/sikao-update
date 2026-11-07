@@ -1,12 +1,12 @@
 {
-  "version": "1.79",
-  "note": "象棋规则补全：将帅不能照面、被将军必须先应将、将死和困毙都判负；AI 只走合法着法，不会再送将。",
+  "version": "1.80",
+  "note": "ce",
   "size": 3827354,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.79.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.79.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.79.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.79.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.79.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.80.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.80.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.80.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.80.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.80.apk"
   ]
 }
