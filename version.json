@@ -1,12 +1,12 @@
 {
-  "version": "1.77",
-  "note": "象棋 AI：不再白送子（走子会算被吃风险，交换要看净值），前 12 手给「出动」加分；开局按 5 套棋谱随机走，每局不一样。",
-  "size": 3827355,
+  "version": "1.78",
+  "note": "象棋 AI 升级：两层搜索（算到对手回应和我回手），开局按你首着走炮/马/兵分别调对应棋谱，每局随机。",
+  "size": 3827354,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.77.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.77.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.77.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.77.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.77.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.78.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.78.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.78.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.78.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.78.apk"
   ]
 }
