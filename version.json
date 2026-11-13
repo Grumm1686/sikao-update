@@ -1,12 +1,12 @@
 {
-  "version": "1.82",
-  "note": "ce2",
-  "size": 3827354,
+  "version": "2.65",
+  "note": "2.65 验证后代码页 + 机魂大悦",
+  "size": 83728785,
   "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.82.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.82.apk",
-    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.82.apk",
-    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-1.82.apk",
-    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-1.82.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-2.65.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-2.65.apk",
+    "https://hub.gitmirror.com/https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-2.65.apk",
+    "https://cdn.jsdelivr.net/gh/Grumm1686/sikao-update@main/app-2.65.apk",
+    "https://raw.githubusercontent.com/Grumm1686/sikao-update/main/app-2.65.apk"
   ]
 }
